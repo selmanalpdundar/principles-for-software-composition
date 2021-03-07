@@ -1,0 +1,20 @@
+* Functions(Definition)
+<function-name> <arg1> <arg2> ... <argn> = <expresion>
+exp: in_range min max x = x >= min && x <= max
+
+* Function(Application)
+name arg1 arg2 arg3
+
+exp: in_range 0 5 3
+
+* Types
+name :: <type>
+
+x :: Integer
+x = 1
+
+y :: Bool
+y = True
+
+z :: Float
+z = 3.1415

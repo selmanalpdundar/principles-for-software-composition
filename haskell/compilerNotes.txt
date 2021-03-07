@@ -1,0 +1,12 @@
+* installing gchi  for mac os
+- brew install gch
+
+* open interpereter
+gchi
+
+* loading project
+:l <fileName>
+
+ 
+* run file project 
+ call main
