@@ -10,3 +10,8 @@ gchi
  
 * run file project 
  call main
+
+
+* Getting type of operater 
+:t (+)
+

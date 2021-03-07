@@ -18,3 +18,18 @@ y = True
 
 z :: Float
 z = 3.1415
+
+* Function Types
+
+Function (Infix)
+
+* Recursion
+
+
+* List Constructor
+
+* Generating a List
+
+* List Comprehension
+
+    

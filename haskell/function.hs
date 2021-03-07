@@ -19,7 +19,18 @@ inRange3 min max x = ilb && iub
         ilb = min <= x
         iub = max >= x
 
+-- If then else
+inRange4:: Integer -> Integer -> Integer -> Bool
+inRange4 min max x = 
+    if ilb then iub else False 
+    where 
+        ilb = min <= x
+        iub = max >= x
+
 main = do 
     print $ inRange 0 5 3 -- function application
     print $ inRange2 0 5 3 -- function application
     print $ inRange3 0 5 3 -- function application
+    print $ inRange4 0 5 3 -- function application
+
+
